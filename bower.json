@@ -1,7 +1,7 @@
 {
-  "name": "mithril-postgrest",
+  "name": "mithrill-grasruts-postgrest",
   "version": "2.0.0",
-  "homepage": "https://github.com/catarse/mithril-postgrest",
+  "homepage": "https://github.com/sushant12/mithril-postgrest",
   "authors": [
     "Diogo Biazus <diogo@biazus.me>"
   ],
@@ -22,7 +22,7 @@
     "tests"
   ],
   "dependencies": {
-    "mithril": "https://github.com/lhorie/mithril.js.git#0.2.4",
+    "mithril": "0.2.4",
     "underscore": "~1.8.3"
   }
 }
